@@ -1,5 +1,5 @@
 Greeting.create(message: 'Hello world!')
 Greeting.create(message: 'How are you?')
-Greeting.create(message: 'Thank you for visiting us.')
-Greeting.create(message: 'Welcome to my web page.')
-Greeting.create(message: 'How is every thing?')
+Greeting.create(message: 'Welcome to our blog.')
+Greeting.create(message: 'Your one-stop shop.')
+Greeting.create(message: 'What would you like today?')
