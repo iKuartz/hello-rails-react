@@ -15,10 +15,11 @@ To get a local copy follow these simple steps.
 - Open the terminal window and clone the repository using this command: `git clone https://github.com/iKuartz/hello-rails-react.git` 
 - Open the repo by typing : `cd rails-react`
 - Install the project's dependencies by running `bundle install` & `npm install` 
+- Run `yarn install` and `yarn`
 - Make sure you have database user called `postgres`.
 - Make sure you have a `db.rb` file under the `config` folder and it should be containing `ENV['DATABASE_PASSWORD'] = 'your_password'`.
 - run `rails db:create` to create the database.
-- run `rails db:migrate` to create the the dchema. 
+- run `rails db:migrate` to create the the schema. 
 - run `rails db:seed` to insert greeting records. 
 - run `rails s` to start the application on local server. 
 
